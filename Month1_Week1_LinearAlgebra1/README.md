@@ -1,8 +1,15 @@
-# Month 1 Week 1 Linear Algebra 1
+# Week 1: Linear Algebra I
 
-## Objectives
-- Math Concepts -> Linear Algebra I -> Vectors, Dot Product, Matrix Multiplication 
-- ML Topics -> Data Representation, Similarity Measures 
-- Coding Exercise -> Implement matrix operations and cosine similarity from scratch (NumPy)
+## 🧠 Math Concepts
+Vectors, Dot Products, Matrix Multiplication
 
-## Study Notes 
+## 🤖 ML/DL Topics
+Data Representation, Similarity Measures
+
+## 🧪 Programming Exercise
+- Implement matrix operations and cosine similarity from scratch
+
+## 📚 Suggested Resources
+- Khan Academy / 3Blue1Brown for math
+- scikit-learn, PyTorch or TensorFlow tutorials
+- Medium articles, Stanford CS231n/CS224n notes

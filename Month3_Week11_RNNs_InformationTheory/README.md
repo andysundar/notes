@@ -1,9 +1,15 @@
-# Month3 Week11 RNNs InformationTheory
+# Week 11: RNNs & Information Theory
 
-## Objectives
-- Math Concepts
-- ML/DL Topics
-- Coding Exercise
+## 🧠 Math Concepts
+Entropy, Cross-Entropy, KL-Divergence
 
-## Resources
-TBD
+## 🤖 ML/DL Topics
+LSTM, Language Modeling
+
+## 🧪 Programming Exercise
+- Text generation using LSTM
+
+## 📚 Suggested Resources
+- Khan Academy / 3Blue1Brown for math
+- scikit-learn, PyTorch or TensorFlow tutorials
+- Medium articles, Stanford CS231n/CS224n notes

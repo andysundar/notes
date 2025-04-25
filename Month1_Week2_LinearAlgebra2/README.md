@@ -1,9 +1,15 @@
-# Month1 Week2 LinearAlgebra2
+# Week 2: Linear Algebra II
 
-## Objectives
-- Math Concepts
-- ML/DL Topics
-- Coding Exercise
+## 🧠 Math Concepts
+Eigenvalues, Eigenvectors, PCA, SVD
 
-## Resources
-TBD
+## 🤖 ML/DL Topics
+PCA, Dimensionality Reduction
+
+## 🧪 Programming Exercise
+- Build PCA from scratch and apply to image compression
+
+## 📚 Suggested Resources
+- Khan Academy / 3Blue1Brown for math
+- scikit-learn, PyTorch or TensorFlow tutorials
+- Medium articles, Stanford CS231n/CS224n notes

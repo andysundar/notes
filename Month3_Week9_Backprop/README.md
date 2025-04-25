@@ -1,9 +1,15 @@
-# Month3 Week9 Backprop
+# Week 9: Backpropagation
 
-## Objectives
-- Math Concepts
-- ML/DL Topics
-- Coding Exercise
+## 🧠 Math Concepts
+Chain Rule Revisited
 
-## Resources
-TBD
+## 🤖 ML/DL Topics
+Manual Backprop with 2-layer NN
+
+## 🧪 Programming Exercise
+- Implement backprop manually using NumPy
+
+## 📚 Suggested Resources
+- Khan Academy / 3Blue1Brown for math
+- scikit-learn, PyTorch or TensorFlow tutorials
+- Medium articles, Stanford CS231n/CS224n notes

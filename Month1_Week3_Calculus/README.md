@@ -1,9 +1,15 @@
-# Month1 Week3 Calculus
+# Week 3: Calculus
 
-## Objectives
-- Math Concepts
-- ML/DL Topics
-- Coding Exercise
+## 🧠 Math Concepts
+Derivatives, Chain Rule, Gradients
 
-## Resources
-TBD
+## 🤖 ML/DL Topics
+Loss functions, Backpropagation
+
+## 🧪 Programming Exercise
+- Plot loss surface and apply basic gradient descent
+
+## 📚 Suggested Resources
+- Khan Academy / 3Blue1Brown for math
+- scikit-learn, PyTorch or TensorFlow tutorials
+- Medium articles, Stanford CS231n/CS224n notes
