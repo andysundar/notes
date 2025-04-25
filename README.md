@@ -35,3 +35,6 @@ Welcome to your guided path toward ML and DL mastery! This structured curriculum
   - Descriptions of hands-on **programming tasks**
 
 Start from Week 1 and move sequentially to build a solid foundation. Happy learning! 🚀
+
+###  Notes 
+- **[Notes] (./python-ai-tutorial.md)**: Notes
