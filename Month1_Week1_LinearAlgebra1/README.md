@@ -1,9 +1,8 @@
-# Month1 Week1 LinearAlgebra1
+# Month 1 Week 1 Linear Algebra 1
 
 ## Objectives
-- Math Concepts
-- ML/DL Topics
-- Coding Exercise
+- Math Concepts -> Linear Algebra I -> Vectors, Dot Product, Matrix Multiplication 
+- ML Topics -> Data Representation, Similarity Measures 
+- Coding Exercise -> Implement matrix operations and cosine similarity from scratch (NumPy)
 
-## Resources
-TBD
+## Study Notes 
