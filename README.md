@@ -1,6 +1,6 @@
 # 📘 3-Month Machine Learning & Deep Learning Mastery Plan
 
-Welcome to your guided path toward ML and DL mastery! This structured curriculum blends essential **mathematics**, **machine learning**, and **deep learning** topics with weekly **hands-on coding exercises**.
+Welcome to my guided path toward ML and DL mastery! This structured curriculum blends essential **mathematics**, **machine learning**, and **deep learning** topics with weekly **hands-on coding exercises**.
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to your guided path toward ML and DL mastery! This structured curriculum
 - Each folder contains a `README.md` with:
   - Weekly **objectives**
   - **Math concepts** and their ML/DL applications
-  - Links to **resources**
-  - Descriptions of hands-on **programming tasks**
+  - Links to **resources** (I will be adding it over the period of time).
+  - Descriptions of hands-on **programming tasks** (I will be adding my code execise.)
 
 Start from Week 1 and move sequentially to build a solid foundation. Happy learning! 🚀
